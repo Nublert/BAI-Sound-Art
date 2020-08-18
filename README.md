@@ -1,5 +1,6 @@
 # EXPERIMENT: Sound Art with AI
-_Final project for the Building AI course_
+**Final project for the Building AI course**
+
 I wanted to do something with machine learning and sound. I also wanted to learn how to make use of open source code shared in Github.
 
 So I downloaded [the AI Drum Machine](https://github.com/googlecreativelab/aiexperiments-drum-machine), learned to make it work and added new sounds to it.

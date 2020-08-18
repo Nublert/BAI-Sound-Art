@@ -23,7 +23,7 @@ This is how you make a list, if you need one:
 
 ### How is it used?
 
-* Find project in [Experiments with Google](https://experiments.withgoogle.com/experiments9
+* Find project in [Experiments with Google](https://experiments.withgoogle.com/experiments)
 * Download (or fork) project [from the repository](https://github.com/googlecreativelab/aiexperiments-drum-machine)
 * Set up node and webpack
 * import sounds from the Sonic Pi sound collection

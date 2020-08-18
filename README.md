@@ -49,7 +49,7 @@ Sound samples:
 
 t-SNE ( t-Distributed Stochastic Neighbor Embedding)
 
-I had no idea something like this existed, now I'm going through a [description of the method here] (https://medium.com/analytics-vidhya/what-is-t-sne-37bfb920e431).
+I had no idea something like this existed, now I'm going through a [description of the method here](https://medium.com/analytics-vidhya/what-is-t-sne-37bfb920e431).
 
 And I'm trying to identify concepts that are now familiar to me thanks to Elements of AI courses.
 

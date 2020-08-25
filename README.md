@@ -5,7 +5,7 @@ I wanted to do something with machine learning and sound. I also wanted to learn
 
 So I downloaded [the AI Drum Machine](https://github.com/googlecreativelab/aiexperiments-drum-machine), learned to make it work and added new sounds to it.
 
-## Background
+## Summary
 
 * I wanted to learn about AI methods and classifying sound
 * The project has a sonic outcome, which is interesting

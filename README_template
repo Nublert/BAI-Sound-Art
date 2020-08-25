@@ -8,7 +8,7 @@ Final project for the Building AI course
 
 What is your personal motivation? Why is this important or interesting?
 
-### Problems it will solve
+## Problems it will solve
 
 Which problems does your idea solve? How common or frequent is this problem?
 
@@ -18,7 +18,7 @@ This is how you make a list, if you need one:
 * etc.
 
 
-### How is it used?
+## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
@@ -26,7 +26,7 @@ Describe the process of using the solution. In what kind situations is the solut
 
 What could go wrong? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
-### Data sources
+## Data sources
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)

@@ -46,12 +46,6 @@ Sound samples:
 * freesound.org, only samples licenced [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 * samples from Sonic Pi programming environment, licenced [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Once you upload an image to your repository, you can link link to it like this:
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" width="300">
-
 
 ## AI methods used
 

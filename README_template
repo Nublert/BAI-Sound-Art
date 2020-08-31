@@ -21,8 +21,13 @@ This is how you make a list, if you need one:
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-![Cat](https://commons.wikimedia.org/wiki/File:Cat_November_2010-1a.jpg)
 
+Images will make your README look nice!
+Once you upload an image to your repository, you can link link to it like this:
+![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+
+If you need to resize images, you have to use an HTML tag, like this:
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 ## Challenges
 

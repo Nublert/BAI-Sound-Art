@@ -22,7 +22,7 @@ This is how you make a list, if you need one:
 * etc.
 
 This is how you create code examples:
-
+```
 def main():
    countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
    pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
@@ -37,7 +37,7 @@ def main():
       print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
 
 main()
-
+```
 
 ### How is it used?
 

@@ -10,7 +10,6 @@ So I downloaded [the AI Drum Machine](https://github.com/googlecreativelab/aiexp
 * I wanted to learn about AI methods and classifying sound
 * The project has a sonic outcome, which is interesting
 * I wanted to learn how to experiment with open source code shared in Github.
-* I wanted to work with code in my project but I'm not experienced enough to write my own code
 
 ## Problems it will solve
 
